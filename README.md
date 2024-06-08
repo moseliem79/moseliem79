@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moseliem79 MY NAME IS Mohammed Hiyibeh
+- 👋 Hi, I’m @moseliem79 my name is Mohammed Hiyibeh
 - 👀 I’m interested in Machine Learning- UI/UX Designer- Front End Development 
 - 💞️ I’m looking to collaborate on learning javascript, python libraries and frameworks
 - 📫 How to reach me  00966569536409
