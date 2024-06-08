@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @moseliem79 MY NAME IS MOHAMMED SELIEM
-- 👀 I’m interested in Front End Development...
-- 💞️ I’m looking to collaborate on learning javascript, python libraries and frameworks...
-- 📫 How to reach me  00966544182079  ...
+- 👋 Hi, I’m @moseliem79 MY NAME IS Mohammed Hiyibeh
+- 👀 I’m interested in Machine Learning- UI/UX Designer- Front End Development 
+- 💞️ I’m looking to collaborate on learning javascript, python libraries and frameworks
+- 📫 How to reach me  00966569536409
 
 <!---
 moseliem79/moseliem79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
