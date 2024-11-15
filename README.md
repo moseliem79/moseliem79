@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @moseliem79 my name is Mohammed Hiyibeh
-- 👀 I’m interested in Machine Learning- UI/UX Designer- Front End Development 
-- 💞️ I’m looking to collaborate on learning javascript, python libraries and frameworks
-- 📫 How to reach me  00966569536409
+✨ Welcome! I’m Mohammed Hiyibeh 👋
+🌟 Passionate About:
+    🎨 UI/UX Design
+    💻 Front-End Development
+    🤖 Machine Learning
+
+🤝 Eager to Collaborate On:
+    🚀 Learning JavaScript
+    🛠️ Exploring Python Libraries and Frameworks
+
+📞 Let’s Connect:
+    📱 +966 56 953 6409
+
+💡 Let’s create something amazing together!
 
 <!---
 moseliem79/moseliem79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
