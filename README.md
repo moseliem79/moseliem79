@@ -1,12 +1,18 @@
 ✨ Welcome! I’m Mohammed Hiyibeh 👋
 🌟 Passionate About:
-    🎨 UI/UX Design
-    💻 Front-End Development
-    🤖 Machine Learning
+⚙️ DevOps Practices & Automation
+🐳 Docker & Containerization Technologies
+☸️ Kubernetes & Orchestration
+☁️ Cloud Computing (AWS, Azure, GCP)
+🐍 Python for DevOps & Automation
+🤖 Machine Learning Operations (MLOps)
 
 🤝 Eager to Collaborate On:
-    🚀 Learning JavaScript
-    🛠️ Exploring Python Libraries and Frameworks
+🚀 Implementing CI/CD Pipelines
+🛠️ Infrastructure as Code (IaC) with Terraform/CloudFormation
+📊 Monitoring & Logging Solutions (Prometheus, Grafana, ELK)
+🛡️ Cloud Security Best Practices
+🧠 Applying Machine Learning to DevOps Automation
 
 📞 Let’s Connect:
     📱 +966 56 953 6409
