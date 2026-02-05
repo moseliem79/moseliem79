@@ -16,7 +16,3 @@
 🌐 Portfolio / CV: [https://moseliem79.github.io/mohammedseliem.github.io/](https://moseliem79.github.io/mohammedseliem.github.io/)
 
 💡 Let’s create innovative, value-driven digital solutions together!
-
----
-
-إذا أحببت، أستطيع أيضًا تجهيز **نسخة مختصرة وجذابة بصيغة Markdown** جاهزة لوضعها مباشرة في ملف **README.md** على GitHub، مع أيقونات تقنية جميلة. هل تريد أن أفعل ذلك
