@@ -1,25 +1,22 @@
-✨ Welcome! I’m Mohammed Hiyibeh 👋
+✨ Welcome! I’m Mohammed Seliem 👋
 🌟 Passionate About:
-⚙️ DevOps Practices & Automation
-🐳 Docker & Containerization Technologies
-☸️ Kubernetes & Orchestration
-☁️ Cloud Computing (AWS, Azure, GCP)
-🐍 Python for DevOps & Automation
-🤖 Machine Learning Operations (MLOps)
-
+💼 Digital Transformation Consulting & Enterprise Architecture
+🧩 Explainable Artificial Intelligence (XAI) & Sector-Based AI Models
+📊 ERP, CRM, and Enterprise Systems Strategy
+🎨 UX/UI Design & Customer Experience Optimization
+🤖 AI-Driven Marketing Automation & Data Analytics
 🤝 Eager to Collaborate On:
-🚀 Implementing CI/CD Pipelines
-🛠️ Infrastructure as Code (IaC) with Terraform/CloudFormation
-📊 Monitoring & Logging Solutions (Prometheus, Grafana, ELK)
-🛡️ Cloud Security Best Practices
-🧠 Applying Machine Learning to DevOps Automation
-
+🚀 Designing Scalable Digital Transformation Roadmaps
+🛠️ Implementing Enterprise Software & Cloud Solutions
+📈 Business Process Analysis & Operational Optimization
+🧠 Applying Interpretable AI Models for Decision Support
+🛡️ Ensuring Regulatory Compliance & Governance in IT Projects
 📞 Let’s Connect:
-    📱 +966 56 953 6409
+📱 +966 54 620 1266 | 📧 [moseliem31@gmail.com](mailto:moseliem31@gmail.com)
+🌐 Portfolio / CV: [https://moseliem79.github.io/mohammedseliem.github.io/](https://moseliem79.github.io/mohammedseliem.github.io/)
 
-💡 Let’s create something amazing together!
+💡 Let’s create innovative, value-driven digital solutions together!
 
-<!---
-moseliem79/moseliem79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+إذا أحببت، أستطيع أيضًا تجهيز **نسخة مختصرة وجذابة بصيغة Markdown** جاهزة لوضعها مباشرة في ملف **README.md** على GitHub، مع أيقونات تقنية جميلة. هل تريد أن أفعل ذلك
