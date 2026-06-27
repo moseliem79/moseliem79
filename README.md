@@ -1,16 +1,18 @@
 ✨ Welcome! I’m Mohammed Seliem 👋
-🌟 Passionate About:
-💼 Digital Transformation Consulting & Enterprise Architecture
-🧩 Explainable Artificial Intelligence (XAI) & Sector-Based AI Models
-📊 ERP, CRM, and Enterprise Systems Strategy
-🎨 UX/UI Design & Customer Experience Optimization
-🤖 AI-Driven Marketing Automation & Data Analytics
-🤝 Eager to Collaborate On:
-🚀 Designing Scalable Digital Transformation Roadmaps
-🛠️ Implementing Enterprise Software & Cloud Solutions
-📈 Business Process Analysis & Operational Optimization
-🧠 Applying Interpretable AI Models for Decision Support
-🛡️ Ensuring Regulatory Compliance & Governance in IT Projects
+
+🌟 Focus Areas:
+💼 Enterprise Sales & Go-To-Market Strategy in Cybersecurity (Protectt.ai – Saudi Arabia)
+🛡️ Mobile Application Security (RASP, Obfuscation, Anti-Tampering, Code Signing)
+📊 B2B SaaS Growth & Competitive Positioning in Enterprise Markets
+🏛️ Saudi Regulatory Alignment (SAMA Cybersecurity Framework, NCA ECC, PDPL)
+📈 Data-Driven Sales Strategy, Campaign Optimization & Demand Generation
+
+🤝 What I Work On:
+🚀 Scaling cybersecurity solutions in enterprise and regulated industries
+🧩 Positioning security products in competitive markets (e.g., DexGuard, AppSealing)
+🛠️ Building GTM strategies and partner ecosystems in Saudi Arabia
+📉 Turning marketing demand into qualified enterprise pipeline
+🧠 Aligning technical security value with business decision-making
 📞 Let’s Connect:
 📱 +966 54 620 1266 | 📧 [moseliem31@gmail.com](mailto:moseliem31@gmail.com)
 🌐 Portfolio / CV: [https://moseliem79.github.io/mohammedseliem.github.io/](https://moseliem79.github.io/mohammedseliem.github.io/)
