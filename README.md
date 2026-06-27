@@ -1,18 +1,18 @@
-✨ Welcome! I’m Mohammed Seliem 👋
+✨ Hi, I’m Mohammed Seliem 👋
 
 🌟 Focus Areas:
-💼 Enterprise Sales & Go-To-Market Strategy in Cybersecurity (Protectt.ai – Saudi Arabia)
+💼 Enterprise Sales & Go-To-Market Strategy in Cybersecurity at Protectt.ai – Saudi Arabia
 🛡️ Mobile Application Security (RASP, Obfuscation, Anti-Tampering, Code Signing)
-📊 B2B SaaS Growth & Competitive Positioning in Enterprise Markets
-🏛️ Saudi Regulatory Alignment (SAMA Cybersecurity Framework, NCA ECC, PDPL)
-📈 Data-Driven Sales Strategy, Campaign Optimization & Demand Generation
+📊 B2B SaaS Growth & Competitive Market Positioning
+🏛️ Alignment with Saudi regulations (SAMA Cybersecurity Framework, NCA ECC, PDPL)
+📈 Data-driven sales strategy, demand generation, and campaign optimization
 
-🤝 What I Work On:
-🚀 Scaling cybersecurity solutions in enterprise and regulated industries
-🧩 Positioning security products in competitive markets (e.g., DexGuard, AppSealing)
+🤝 What I work on:
+🚀 Driving enterprise expansion for Protectt.ai across regulated industries
+🧩 Positioning Protectt.ai against competitive solutions such as DexGuard and AppSealing
 🛠️ Building GTM strategies and partner ecosystems in Saudi Arabia
-📉 Turning marketing demand into qualified enterprise pipeline
-🧠 Aligning technical security value with business decision-making
+📉 Converting marketing demand into qualified enterprise pipeline
+🧠 Translating technical security value into business decision-making
 📞 Let’s Connect:
 📱 +966 54 620 1266 | 📧 [moseliem31@gmail.com](mailto:moseliem31@gmail.com)
 🌐 Portfolio / CV: [https://moseliem79.github.io/mohammedseliem.github.io/](https://moseliem79.github.io/mohammedseliem.github.io/)
